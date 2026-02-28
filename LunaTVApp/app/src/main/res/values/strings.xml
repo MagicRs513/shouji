@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">LunaTV</string>
+
+    <string name="navigation_home">首页</string>
+    <string name="navigation_movies">影视</string>
+    <string name="navigation_live">直播</string>
+    <string name="navigation_youtube">YouTube</string>
+    <string name="navigation_netdisk">网盘</string>
+    <string name="navigation_shortdrama">短剧</string>
+    <string name="navigation_ai">AI推荐</string>
+    <string name="navigation_profile">我的</string>
+
+    <string name="login_title">登录</string>
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="login_button">登录</string>
+    <string name="login_register">注册</string>
+    <string name="login_oidc">第三方登录</string>
+
+    <string name="search_hint">搜索视频、直播、频道</string>
+    <string name="search_voice_search">语音搜索</string>
+
+    <string name="play_now">立即播放</string>
+    <string name="play_source">播放源</string>
+    <string name="play_related">相关推荐</string>
+
+    <string name="live_channels">频道列表</string>
+    <string name="live_epg">节目单</string>
+    <string name="live_dvr">时移</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_playback">播放设置</string>
+    <string name="settings_danmaku">弹幕设置</string>
+    <string name="settings_cache">缓存管理</string>
+    <string name="settings_account">账号管理</string>
+    <string name="settings_tvbox">TVBox配置</string>
+
+    <string name="my_favorites">我的收藏</string>
+    <string name="my_history">播放历史</string>
+    <string name="my_continue">继续观看</string>
+    <string name="my_new_episodes">新剧集</string>
+
+    <string name="loading">加载中…</string>
+    <string name="error_network">网络错误</string>
+    <string name="error_server">服务器错误</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="retry">重试</string>
+</resources>
