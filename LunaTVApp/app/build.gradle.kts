@@ -23,8 +23,8 @@ android {
             useSupportLibrary = true
         }
 
-        buildConfigField("String", "BASE_URL", "\"https://your-lunatv-backend.com\"")
-        buildConfigField("String", "TVBOX_BASE_URL", "\"https://your-lunatv-backend.com\"")
+        buildConfigField("String", "BASE_URL", "\"https://any.lumi210.ggff.net\"")
+        buildConfigField("String", "TVBOX_BASE_URL", "\"https://any.lumi210.ggff.net\"")
     }
 
     buildTypes {
